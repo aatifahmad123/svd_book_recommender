@@ -30,7 +30,7 @@ The recommender system:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/aatifahmad123/svd_book_recommender.git
    cd svd_book_recommender
    ```
 
