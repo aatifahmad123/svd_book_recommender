@@ -1,6 +1,6 @@
 # Book Recommender using SVD by ISBN
 
-**Author**: Aatif Ahmad
+The application is live at: [Streamlit App](https://svd-book-recommender.streamlit.app/)
 
 This project implements a book recommendation system that suggests similar books based on a user-provided ISBN. It uses Singular Value Decomposition (SVD) to compute book similarities from user ratings, built from scratch with Python. The project includes a command-line script (`main.py`) for core implementation and a Streamlit web application (`app.py`) for an interactive user interface.
 
